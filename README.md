@@ -47,3 +47,5 @@ O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnolo
 - Prints do teu projeto rodando, caso tenhamos dificuldade em roda-lo.
 - codigo do projeto
 - https://drive.google.com/file/d/1BzFT2Dirj27bE_iwfKp4WlVhkHz1Qhqj/view?usp=sharing
+- ferramenta para ajudar nos graficos e desenhos arquiteturais https://app.diagrams.net
+
