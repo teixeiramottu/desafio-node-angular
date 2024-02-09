@@ -36,7 +36,7 @@ O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnolo
 - O desfio é uma base para que vc construa seu projeto, pense em features e itens que não estejam compostos no projeto para "incrmenetar" sua analise e nota final. 
 
 
-##Arquivos requiridos além do codigo RODANDO.
+#Arquivos requiridos além do codigo RODANDO.
 
 - Dockerfile ( temos queconseguir subir teu projeto seguindo instruções simples usando docker, pode colocar o bd junto do docker)
 - Diagrama de classes
