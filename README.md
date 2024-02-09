@@ -38,9 +38,9 @@ O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnolo
 
 ##Arquivos requiridos além do codigo RODANDO.
 
-#- Dockerfile ( temos queconseguir subir teu projeto seguindo instruções simples usando docker, pode colocar o bd junto do docker)
-#- Diagrama de classes
-#- Diagrama entitade relacional (BD) (exemplo no repo)
-#- How to pra rodar teu projeto
-#- Prints do teu projeto rodando, caso tenhamos dificuldade em roda-lo.
-#- codigo do projeto
+- Dockerfile ( temos queconseguir subir teu projeto seguindo instruções simples usando docker, pode colocar o bd junto do docker)
+- Diagrama de classes
+- Diagrama entitade relacional (BD) (exemplo no repo)
+- How to pra rodar teu projeto
+- Prints do teu projeto rodando, caso tenhamos dificuldade em roda-lo.
+- codigo do projeto
