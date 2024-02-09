@@ -1,9 +1,3 @@
-# How to
-- Abra a pasta do projeto no CMD do seu computador
-- Rode `npm i` para instalar as dependências do projeto
-- Configure um Banco de Dados dentro de `config` na pasta server
-- Rode os comandos `npx sequelize-cli db:migrate` e em seguida `npx sequelize-cli db:seed:all` no seu CMD
-- E basta abrir outro CMD para rodar ambos projetos. `ng serve` para rodar o front e `npm run dev` para rodar a api
 
 # Descrição
 O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnologias modernas como Angular, Sass e Node Express para proporcionar uma experiência eficiente e visualmente atraente na gestão de dados de participantes. Este sistema simplifica o processo de coleta, armazenamento e visualização de informações.
