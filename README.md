@@ -6,7 +6,7 @@ O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnolo
 
 **1º Formulário Dinâmico:**
 
-- Um formulário intuitivo e amigável permite aos usuários inserir dados essenciais, incluindo o primeiro nome, segundo nome e a porcentagem de participação de cada indivíduo.
+- Um formulário intuitivo e amigável permite aos usuários inserir dados essenciais, incluindo o primeiro nome, segundo nome e a porcentagem de participação de cada indivíduo. Para entrar na aplicação para cadastrar usuarios deve ser usado algum tipo de autenticação preferencialmente JWT. Seja criativo na hora criar a parte de autenticação.
 
 **2º Back-end com Node Express:**
 
@@ -16,9 +16,9 @@ O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnolo
 
 - Os dados coletados são armazenados de forma segura e eficiente em um banco de dados MySql, garantindo integridade e disponibilidade para futuras consultas.
 
-**4º Tabela Dinâmica de Participantes:**
+**4º Tabela Dinâmica de Participantes com seus grupos:**
 
-- Uma tabela interativa exibe os dados dos participantes de maneira organizada e fácil de entender, oferecendo recursos de ordenação para uma experiência de usuário aprimorada.
+- Uma tabela interativa exibe os dados dos participantes de maneira organizada e fácil de entender, oferecendo recursos de ordenação para uma experiência de usuário aprimorada. 1 participante somente pode estar em 1 grupo, nunca pode estar em outro grupo já estando em 1.
 
 **5º Gráfico de Rosquinha Interativo:**
 
@@ -35,6 +35,8 @@ O projeto de Gestão de Participantes é uma aplicação web que utiliza tecnolo
 **8º Pense fora da caixa:**
 - O desfio é uma base para que vc construa seu projeto, pense em features e itens que não estejam compostos no projeto para "incrmenetar" sua analise e nota final. 
 
+**9º Extramile 1:**
+- Sorteio, uma funcionalidade, tela de sorteio de premios, que randomicamente, sorteia entre todos os participantes um deles para ganhar um premio. A tela de sucesso do sorteado fica livre de style, confecção e decorators que vc queira adicionar para deixar mais legal a experiencia.
 
 # Arquivos requiridos além do codigo RODANDO.
 
